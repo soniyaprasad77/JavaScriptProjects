@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    margin-top: 21vh;
+    background-color: beige;
+}
+
+.wrapper{
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+    background-color: bisque;
+    border:10px solid blanchedalmond;
+    border-radius:10px;
+    width:50%;
+    height:auto;
+
+}
+#newGame{
+    cursor: pointer;
+    background-color: gray;
+    padding-right:10px;
+
+}

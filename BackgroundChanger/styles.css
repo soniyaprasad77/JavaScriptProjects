@@ -1,0 +1,29 @@
+body, html{
+    margin:0;
+    
+}
+
+
+h2{
+    text-align: center;
+}
+
+.btns{
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#start{
+    width:100px;
+    height:50px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#stop{
+    width:100px;
+    height:50px;
+    border-radius: 5px;
+    cursor: pointer;
+}

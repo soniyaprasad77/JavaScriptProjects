@@ -1,0 +1,39 @@
+body{
+    background-color: gray;
+}
+.buttons{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+.btn{
+  width: 100px;
+  height:50px;
+  margin:20px;
+  border:5px solid black;
+  border-radius:20px;
+}
+h1{
+    text-align: center;
+}
+
+#yellow{
+    background-color: yellow;
+
+}
+#red{
+    background-color: red;
+}
+#lightblue{
+    background-color:lightblue;
+}
+#green{
+    background-color:green;
+}
+#purple{
+    background-color:purple;
+}
+#white{
+    background-color: white;
+}
